@@ -44,7 +44,7 @@ Your submission will be evaluated based on the following criteria:
 
 ## Submission
 
-To submit your project, we offer you two avenues: either create a new GitHub repository or fork the original repository that we have provided. Below are the detailed instructions to guide you through both processes:
+To submit your project, we offer you two avenues: either create a new GitHub repository or fork the original repository that we have provided. If you do not already have a GitHub account, you will need to create one to submit your project. Creating an account is straightforward and can be done [**here**](https://github.com/join). Below are the detailed instructions to guide you through both processes:
 
 ### Option 1: Create a New Repository
 
