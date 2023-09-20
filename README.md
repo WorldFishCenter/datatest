@@ -4,8 +4,6 @@
 
 In this assessment, you are provided with a dataset containing information about Life Expectancy and Socio-Economic data from the World Bank. Your task is to analyze this dataset to uncover insightful patterns and trends. This is an open-ended task designed to allow you to showcase your creativity, analytical skills, and ability to derive meaningful information from data. You have the liberty to choose the analyses to perform, insights to uncover, and the kind of visualizations to use.
 
-------------------------------------------------------------------------
-
 ## Task
 
 **Consider this dataset as a playground where you can unleash your data science prowess. You are free to navigate through the data in any way you see fit. Here are some guidelines to steer your journey:**
@@ -15,8 +13,6 @@ In this assessment, you are provided with a dataset containing information about
 2.  **Exploratory Data Analysis (EDA)**: Carry out an exploratory data analysis to identify patterns, relationships, or anomalies in the data. This could include the investigation of correlations between variables, distribution analysis of certain features, etc.
 
 3.  **Data Visualization**: Create visualizations to help convey the insights you uncover during your analysis. Visualizations can be in the form of graphs, charts, or any other appropriate formats. Make sure your visualizations are clear and well-labeled.
-
-------------------------------------------------------------------------
 
 ## **Final Output**
 
@@ -39,8 +35,6 @@ Your submission will be evaluated based on the following criteria:
 3.  **Visualization Skills**: The ability to create meaningful and insightful visualizations.
 4.  **Reporting Skills**: Clear articulation of findings, with a logical flow of the report.
 5.  **Code Quality**: Clean, well-organized, and documented code.
-
-------------------------------------------------------------------------
 
 ## Submission
 
